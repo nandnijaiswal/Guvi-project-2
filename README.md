@@ -56,7 +56,7 @@ Install all requirements with:
 pip install -r requirements.txt
 ```
 
-## Usage
+## How to Run the Code
 1. Place dataset in the project folder (`school_results_cleaned.csv`).
 2. Run the analysis script:
 ```bash
