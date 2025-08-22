@@ -68,7 +68,7 @@ python school_result_analyzer.py
 ## Results
 - Charts for averages, pass/fail, correlation, toppers.
 - Performance metrics (pass rate, toppers, averages).
-- Premium 10-slide **PowerPoint presentation** generated automatically.
+- Premium 9-slide **PowerPoint presentation** generated automatically.
 
 ## Limitations & Future Work
 - Current dataset limited to marks only (no socio-economic or behavioral features).
