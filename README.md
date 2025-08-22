@@ -37,7 +37,7 @@ A sample dataset is provided for demonstration.
 ├── school_result_analyzer.py        # Core Python analysis script
 ├── school_result_analyzer.ipynb     # Jupyter Notebook (Colab-compatible)
 ├── school_results_cleaned.csv       # Dataset
-├── School_Result_Data_Science_Project_Premium.pptx  # Final Presentation
+├── School_Result_Data_Science_Project.pdf  # Final Presentation
 ├── figs/                            # Generated charts (PNG)
 └── README.md                        # Project documentation
 ```
